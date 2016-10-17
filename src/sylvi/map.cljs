@@ -2,8 +2,6 @@
   (:require [reagent.core :as reagent]
             ))
 
-
-
 (defn map-render []
   [:div {:class "col-md-12" :style {:height "600px"}}])
 

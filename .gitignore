@@ -30,3 +30,4 @@ pom.xml.asc
 .DS_Store
 .idea
 
+public/js/release
